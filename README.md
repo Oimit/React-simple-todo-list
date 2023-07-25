@@ -74,10 +74,10 @@ npm start
 The app will be accessible at http://localhost:3000.
 
 <!-- CONTRIBUTING -->
-Contributing
+### Contributing:<br>
 Contributions are welcome! If you find any issues or want to enhance the functionality, please open an issue or submit a pull request.
 
 <!-- ACKNOWLEDGMENTS -->
-Acknowledgments
+### Acknowledgments:<br>
 Special thanks to Web Dev Simplified for providing valuable tutorials and guidance during the development of this project.
 
