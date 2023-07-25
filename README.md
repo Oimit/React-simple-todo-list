@@ -18,7 +18,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/Oimit/todo-list-app.git
 cd todo-list-app
 Install the project dependencies:
 bash
@@ -31,13 +31,6 @@ bash
 Copy code
 npm start
 The app will be accessible at http://localhost:3000.
-
-Demo
-You can find a live demo of the Todo List app at https://your-username.github.io/todo-list-app.
-
-Screenshots
-Todo List App
-(Add screenshots here to showcase your app)
 
 Contributing
 Contributions to the Todo List app are welcome! If you find any issues or want to enhance the functionality, please open an issue or submit a pull request.
