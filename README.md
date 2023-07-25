@@ -6,11 +6,10 @@
   <p align="center">
     A simple and efficient Todo List web application built with React.
     <br />
-    <a href="https://Oimit.github.io/todo-list-app">View Demo</a>
     ·
-    <a href="https://github.com/Oimit/todo-list-app/issues">Report Bug</a>
+    <a href="https://github.com/Oimit/React-simple-todo-list/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Oimit/todo-list-app/issues">Request Feature</a>
+    <a href="https://github.com/Oimit/React-simple-todo-list/issues">Request Feature</a>
   </p>
 </p>
 
